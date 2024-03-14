@@ -1,0 +1,6 @@
+this is master
+<<<<<<< HEAD
+this is in cli
+=======
+this is from CLI
+>>>>>>> 56f3d66 (Update master)
