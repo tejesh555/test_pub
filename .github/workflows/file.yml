@@ -4,6 +4,8 @@ on:
       - master
     paths:
       - develop
+    tags:
+      - "v*"
 jobs:
   build:
     runs-on: self-hosted
