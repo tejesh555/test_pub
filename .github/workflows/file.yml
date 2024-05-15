@@ -2,8 +2,8 @@ on:
   push:
     branches:
       - master
-  path:
-    - develop
+    paths:
+      - develop
 jobs:
   build:
     runs-on: self-hosted
